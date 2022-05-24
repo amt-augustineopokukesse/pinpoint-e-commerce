@@ -34,7 +34,7 @@ Project is: complete
 
 
 ## Acknowledgements
-- This project was based on the Frontend Engineering career path on (https://www.codecademy.com).
+- This project was based on the Front-End Engineering career path on (https://www.codecademy.com).
 
 
 ## Contact
